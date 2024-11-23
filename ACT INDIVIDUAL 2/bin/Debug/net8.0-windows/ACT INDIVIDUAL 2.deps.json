@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ACT INDIVIDUAL 2/1.0.0": {
+        "runtime": {
+          "ACT INDIVIDUAL 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ACT INDIVIDUAL 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
