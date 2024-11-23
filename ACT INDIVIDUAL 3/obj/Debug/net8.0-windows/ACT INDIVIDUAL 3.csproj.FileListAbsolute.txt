@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\ACT INDIVIDUAL 3\bin\Debug\net8.0-windows\ACT INDIVIDUAL 3.exe
+C:\Users\Usuario\Desktop\ACT INDIVIDUAL 3\bin\Debug\net8.0-windows\ACT INDIVIDUAL 3.deps.json
+C:\Users\Usuario\Desktop\ACT INDIVIDUAL 3\bin\Debug\net8.0-windows\ACT INDIVIDUAL 3.runtimeconfig.json
+C:\Users\Usuario\Desktop\ACT INDIVIDUAL 3\bin\Debug\net8.0-windows\ACT INDIVIDUAL 3.dll
+C:\Users\Usuario\Desktop\ACT INDIVIDUAL 3\bin\Debug\net8.0-windows\ACT INDIVIDUAL 3.pdb
+C:\Users\Usuario\Desktop\ACT INDIVIDUAL 3\obj\Debug\net8.0-windows\ACT_INDIVIDUAL_3.Form1.resources
+C:\Users\Usuario\Desktop\ACT INDIVIDUAL 3\obj\Debug\net8.0-windows\ACT INDIVIDUAL 3.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ACT INDIVIDUAL 3\obj\Debug\net8.0-windows\ACT INDIVIDUAL 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ACT INDIVIDUAL 3\obj\Debug\net8.0-windows\ACT INDIVIDUAL 3.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ACT INDIVIDUAL 3\obj\Debug\net8.0-windows\ACT INDIVIDUAL 3.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ACT INDIVIDUAL 3\obj\Debug\net8.0-windows\ACT INDIVIDUAL 3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ACT INDIVIDUAL 3\obj\Debug\net8.0-windows\ACT INDIVIDUAL 3.dll
+C:\Users\Usuario\Desktop\ACT INDIVIDUAL 3\obj\Debug\net8.0-windows\refint\ACT INDIVIDUAL 3.dll
+C:\Users\Usuario\Desktop\ACT INDIVIDUAL 3\obj\Debug\net8.0-windows\ACT INDIVIDUAL 3.pdb
+C:\Users\Usuario\Desktop\ACT INDIVIDUAL 3\obj\Debug\net8.0-windows\ACT INDIVIDUAL 3.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ACT INDIVIDUAL 3\obj\Debug\net8.0-windows\ref\ACT INDIVIDUAL 3.dll
